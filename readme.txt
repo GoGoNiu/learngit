@@ -1,3 +1,3 @@
 its first day to learn git.
 Helo Git!
-creating a new branch is quick!
+creating a new branch is quick and simple!
